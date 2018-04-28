@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomLiveDataViewModel</string>
+    <string name="appbar_scrolling_view_behavior">scrolling_view</string>
+    <string name="item_name">item name</string>
+    <string name="person_name">person name</string>
+    <string name="set_date">set date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
